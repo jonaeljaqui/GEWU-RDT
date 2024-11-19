@@ -2,7 +2,7 @@
   "name": "ReadToken",
   "symbol": "RDT",
   "description": "Token for rewarding reading activities.",
-  "image": "https://github.com/jonaeljaqui/GEWU-RDT/blob/main/LOGO.jpg",
+  "image": "https://raw.githubusercontent.com/jonaeljaqui/GEWU-RDT/refs/heads/main/LOGO.jpg",
   "attributes": [
     { "trait_type": "Category", "value": "Education" }
   ]
